@@ -47,7 +47,10 @@ lastly, I used the expression `print(bytearray.fromhex(hex(D)[2:]).decode('ascii
 
 **Note:** I changed outcome to hex value so that I can perform a value conversion to ascii for readability. `[2:]` is used to remove first two charactes of hex value which will be `0x`.
 
+## Screenshot
 
+
+![alt text](https://github.com/Gul31/PicoCTF/blob/main/Mind%20your%20Ps%20and%20Qs/Flag.PNG)
 
 
 
