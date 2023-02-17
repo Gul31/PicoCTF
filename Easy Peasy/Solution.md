@@ -19,3 +19,5 @@
 - `'{:x}'.format(ef^ea^pa)`
 
 Solution will be hex string: **6162663266376435656466303832303238303736626664376134636665396139**
+
+Use any online converter to convert Hex to Ascii string. The Converted Ascii string will be flag: `abf2f7d5edf082028076bfd7a4cfe9a9`
